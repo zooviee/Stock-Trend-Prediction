@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+env/
+.venv/
+venv/
+ENV/
+
+# VSCode settings
+.vscode/
+
+# Data files
+*.csv
+*.xlsx
+*.json
+*.parquet
+
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Streamlit cache
+.streamlit/
+
+# TensorBoard logs
+logs/
