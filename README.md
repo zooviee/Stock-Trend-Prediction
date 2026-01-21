@@ -1,5 +1,7 @@
 # Stock Trend Prediction Web App (LSTM + Streamlit)
 
+Live demo: 👉 https://zooviee-stock-trend-prediction-app-lmc5tj.streamlit.app
+
 This project is an interactive web application that predicts stock price trends using a deep learning model (LSTM). It allows users to input any stock ticker, visualize historical price behavior, and compare actual prices against model predictions in real time.
 
 The application is built with:
@@ -178,4 +180,5 @@ Stock markets are highly volatile, and predictions are based solely on historica
 * Support comparison of multiple stocks
 
 ---
+
 
