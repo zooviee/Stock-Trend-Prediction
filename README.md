@@ -130,6 +130,9 @@ Original Price  → Real stock movement
 Predicted Price → Model trend estimation  
 ```
 
+<img width="953" height="463" alt="image" src="https://github.com/user-attachments/assets/a5bbef7c-2c27-4a3d-a620-7c8c4ab9341e" />
+
+
 ---
 
 ## Application Features
@@ -175,3 +178,4 @@ Stock markets are highly volatile, and predictions are based solely on historica
 * Support comparison of multiple stocks
 
 ---
+
